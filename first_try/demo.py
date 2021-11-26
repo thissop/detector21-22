@@ -10,4 +10,4 @@ def change_color(ranges, range_colors, resistance):
 ranges = {'one':[0,3], 'two':[3,6], 'three':[6,9]}
 colors = {'one':'red', 'two':'blue', 'three':'green'}
 
-change_color(ranges, colors, 6.5)
+#change_color(ranges, colors, 6.5)
